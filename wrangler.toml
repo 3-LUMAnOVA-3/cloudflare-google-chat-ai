@@ -1,10 +1,17 @@
-# wrangler.toml
-name = 'cloudflare-google-chat-ai'
+name = "cloudflare-google-chat-ai"
 main = "index.js"
 compatibility_date = "2024-04-03"
 
+# Variables d'environnement publiques
 [vars]
 EMAIL_ID = "AI-Zero-Trust@serverweb3.xyz"
+JWKS_URL = "https://rowbinweb-sec.cloudflareaccess.com/cdn-cgi/access/certs"
 
+# Liaisons de ressources
 [ai]
 binding = "AI"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "network_logs"
+database_id = "TON_ID_D1"
