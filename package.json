@@ -1,0 +1,7 @@
+{
+  "name": "google-chat-ai",
+  "version": "1.0.0",
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
