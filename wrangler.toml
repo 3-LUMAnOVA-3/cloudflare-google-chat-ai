@@ -1,0 +1,9 @@
+name = "google-chat-ai"
+main = "index.js"
+compatibility_date = "2024-04-03"
+
+[vars]
+EMAIL_ID = "AI-Zero-Trust@serverweb3.xyz"
+
+[ai]
+binding = "AI"
