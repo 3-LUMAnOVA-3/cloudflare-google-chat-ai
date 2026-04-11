@@ -1,4 +1,4 @@
-name = "chat"
+name = "cloudflare-google-chat-ai"
 main = "index.js"
 compatibility_date = "2024-04-03"
 
