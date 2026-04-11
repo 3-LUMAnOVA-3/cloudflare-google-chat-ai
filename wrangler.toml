@@ -1,4 +1,4 @@
-name = "https://cloudflare-google-chat-ai.chtr-418.workers.dev/"
+name = "chat"
 main = "index.js"
 compatibility_date = "2024-04-03"
 
