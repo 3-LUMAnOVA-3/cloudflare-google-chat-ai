@@ -1,4 +1,4 @@
-name = "cloudflare-google-chat-ai"
+name = "https://cloudflare-google-chat-ai.chtr-418.workers.dev/"
 main = "index.js"
 compatibility_date = "2024-04-03"
 
@@ -14,4 +14,4 @@ binding = "AI"
 [[d1_databases]]
 binding = "DB"
 database_name = "network_logs"
-database_id = "TON_ID_D1"
+database_id = "ae0e26c7-f960-4d0b-bcc4-9e7d5c4a7580"
